@@ -15,7 +15,7 @@ import base64
 logging.basicConfig(level=logging.INFO)
 
 # Path to logos
-LOGO_PATH = r"C:\Users\hughe\PycharmProjects\NBADATA\NBA\ModularDashboard\resources\Logos"
+LOGO_PATH = r"YOUR PATH TO LOGOS"
 
 TEAM_LOGOS = {
     "Atlanta Hawks": "atlantahawks.png",
